@@ -1,0 +1,18 @@
+.person {
+  margin-bottom: 1em;
+  padding: 0.5em 1em;
+}
+
+.person--theme-light {
+  background-color: #efefef;
+  color: black;
+}
+
+.person--theme-dark {
+  background-color: #151515;
+  color: #efefef;
+}
+
+.person > p {
+  margin: 0;
+}
